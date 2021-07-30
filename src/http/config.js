@@ -1,3 +1,10 @@
+/**
+ * Created by WebStorm.
+ * User: 高俊东
+ * Date: 7/30/21
+ * Time: 3:43 PM
+ */
+
 import axios from 'axios'
 
 const server = axios.create({
